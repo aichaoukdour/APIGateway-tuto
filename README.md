@@ -62,6 +62,7 @@ An API gateway is a critical component of modern application architecture, provi
 - The request is typically HTTP-based. It could be REST, GraphQL, or some other higher-level abstractions.
 
 ## Step 2: API Gateway Validates the HTTP Request
+<img width="691" alt="image" src="https://github.com/user-attachments/assets/b98a0e33-c675-450f-8ce9-e97a0f84e4f7" />
 - The API gateway checks the validity of the incoming request.
 
 ## Step 3: API Gateway Checks Caller’s IP and HTTP Headers
